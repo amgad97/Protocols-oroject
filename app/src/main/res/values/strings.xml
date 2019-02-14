@@ -1,5 +1,9 @@
 <resources>
-    <string name="app_name">MyThermonitor</string>
-    <string name="password">Password</string>
+    <string name="app_name" translatable="false">MyThermonitor</string>
+    <string name="full_name">Full name</string>
+    <string name="name">Name</string>
     <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confrim_password">Confrim Password</string>
+    <string name="sign_up">hh</string>
 </resources>

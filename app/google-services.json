@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "969493678506",
+    "firebase_url": "https://mythermonitor.firebaseio.com",
+    "project_id": "mythermonitor",
+    "storage_bucket": "mythermonitor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:969493678506:android:121362f7710a3fdf",
+        "android_client_info": {
+          "package_name": "com.example.mythermonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "969493678506-7jk27ikd57vsugoots5o8b9j3lnrvel7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mythermonitor",
+            "certificate_hash": "be64ae03a12161447794d06f38e616b751a69443"
+          }
+        },
+        {
+          "client_id": "969493678506-slqlhlgpk134k7rcafda4e6qlpcqcssb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7Rjrp40tIzpCsEszsqFb2bTcNTL69OnI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "969493678506-slqlhlgpk134k7rcafda4e6qlpcqcssb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
